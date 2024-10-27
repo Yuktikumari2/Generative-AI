@@ -76,3 +76,6 @@ Maintainer: Yukti Kumari
 Email: yuktikumari195@gmail.com
 
 ### ✨ Happy Hiring with Gemini Pro ATS! ✨
+
+![Screenshot 2024-10-27 144124](https://github.com/user-attachments/assets/a9929ef6-5263-4131-8a8c-d595678aefb6)
+
