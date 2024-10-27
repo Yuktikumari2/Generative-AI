@@ -1,4 +1,4 @@
-#Gemini Pro Applicant Tracking System (ATS) 🎯
+###Gemini Pro Applicant Tracking System (ATS) 🎯
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system leverages the Gemini Pro model to streamline resume screening, enhancing the efficiency of the hiring process. It provides insightful metrics such as Job Description Match, Missing Keywords, and a Profile Summary, empowering recruiters to identify top candidates quickly and accurately.
 
 ##Features
